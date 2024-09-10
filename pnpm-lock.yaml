@@ -14,6 +14,8 @@ importers:
 
   packages/core: {}
 
+  packages/utils: {}
+
 packages:
 
   '@babel/code-frame@7.24.7':
