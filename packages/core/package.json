@@ -28,6 +28,7 @@
   },
   "gitHead": "05238cdbeafc12cd6c534ea6d7c66f2190251c48",
   "dependencies": {
-    "@alexkl/utils": "workspace:*"
+    "@alexkl/utils": "workspace:*",
+    "commander": "^12.1.0"
   }
 }
