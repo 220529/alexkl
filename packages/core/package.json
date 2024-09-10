@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "bin": {
-    "alex": "lib/core.js"
+    "alex": "lib/index.js"
   },
   "files": [
     "lib"
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/220529/alexkl/issues"
   },
-  "gitHead": "05238cdbeafc12cd6c534ea6d7c66f2190251c48"
+  "gitHead": "05238cdbeafc12cd6c534ea6d7c66f2190251c48",
+  "dependencies": {
+    "@alexkl/utils": "workspace:*"
+  }
 }
